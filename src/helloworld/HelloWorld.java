@@ -16,6 +16,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         System.out.println("Milan: Nazdar světe!");
+        System.out.println("Petra: Zdravím.");
     }
     
 }
