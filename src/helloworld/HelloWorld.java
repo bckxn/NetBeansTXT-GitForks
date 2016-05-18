@@ -18,6 +18,7 @@ public class HelloWorld {
         System.out.println("Milan: Nazdar světe!");
         System.out.println("Hužva: Taky nazdar...");
         System.out.println("Pavel: Dobrý den!");
+        System.out.println("Martin: добрый день");
     }
     
 }
