@@ -15,10 +15,6 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Milan: Nazdar světe!");
-        System.out.println("Petra: Zdravím.");
-        System.out.println("Hužva: No nazdar...");
-        System.out.println("Pavel: Dobrý den!");
-        System.out.println("Martin: добрый день");
+        System.out.println("Hello World!");
     }
 }
